@@ -27,7 +27,7 @@ pip freeze > requirements.txt
 
 ##### Dentro del entorno virtual, instalar dependencias desde requirements.txt
 ```shell
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Comandos pyinstaller

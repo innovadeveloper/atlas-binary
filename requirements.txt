@@ -1,6 +1,7 @@
 altgraph==0.17.4
 certifi==2024.6.2
 charset-normalizer==3.3.2
+click==8.1.7
 idna==3.7
 importlib_metadata==7.1.0
 macholib==1.16.3
