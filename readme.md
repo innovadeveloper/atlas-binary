@@ -37,4 +37,5 @@ python -m pip install -r requirements.txt
 pyinstaller --onefile app.py
 ```
 
-
+#### Conclusiones
+Este repositorio tendrá las funciones de actuar como un CLI.
